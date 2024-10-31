@@ -13,7 +13,7 @@ Advisor: Yanping Li <br>
 Sept. 2017 -- Jun. 2020
 
 **Shaanxi Normal University**, Xi'an, China <br>
-B.E. in Information and Computation Science
+B.E. in Information and Computation Science <br>
 Sept. 2012 -- Jun. 2016
 
 Conference Papers
@@ -46,5 +46,34 @@ J. King Saud Univ. Comput. Inf. Sci. 35(8): 101703 (2023) [[link]](https://doi.o
 Meixia Miao, Jianghong Wei, **Jiaojiao Wu**, Kuan-Ching Li, Willy Susilo <br>
 Int. J. Intell. Syst. 37(2): 1322-1338 (2022) [[link]](https://doi.org/10.1002/int.22671)
 
+Awards
+======
+The 2nd National Crypto-Math Challenge <br>
+National First Prize <br>
+Dec. 2017 <br>
+Recover the initial state (60 bits) of a linear feedback shift register (LFSR) using rule-based low density parity check code (LDPC) attack algorithms
+
+The 3rd National Crypto-Math Challenge <br>
+National Second Prize <br>
+Aug. 2018 <br>
+Factorize a 432-digit decimal integer to obtain 14 prime factors, and perform primality testing on each
+
+The 6th National Cryptography Technology Competition <br>
+National Second Prize <br>
+Nov. 2021 <br>
+Develop a data retrieval scheme for dynamic encrypted database based on SGX
+
+Research Projects
+======
+The Postgraduate Innovation Fund of Xidian University <br>
+May 2022 -- May 2023 <br>
+Key Project (Project Leader)
+
+The Postgraduate Innovation Fund of Shaanxi Normal University <br>
+May 2019 -- May 2020 <br>
+General Project (Project Leader)
+
 Talks
 ======
+1. Oct. 2022 - ``New Unbounded Verifiable Data Streaming for Batch Query with Almost Optimal Overhead'', at European Symposium on Research in Computer Security (ESORICS), 2022.
+2. Jun. 2022 - ``Efficient Volume-Hiding Encrypted Multi-Maps with Support for Conjunctive Queries'', at IFIP International Conference on ICT Systems Security and Privacy Protection (SEC), 2022.
