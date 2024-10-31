@@ -2,6 +2,11 @@ I'm a Ph.D. student at Xidian University. My research focuses on searchable encr
 
 Education
 ======
+<div class="container">
+  <span class="left-align">左对齐内容</span>
+  <span class="right-align">右对齐内容</span>
+</div>
+
 <p align="left"> Xidian University  <p align="right">Xi'an, China </p>
 Sept. 2020 -- Present
 
