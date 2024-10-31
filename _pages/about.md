@@ -1,4 +1,11 @@
-
+---
+permalink: /
+title: " "
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I'm a Ph.D. student at Xidian University. My research focuses on searchable encryption. I develop privacy-enhancing techniques to solve data security and integrity problems for databases and cloud storage.
 
