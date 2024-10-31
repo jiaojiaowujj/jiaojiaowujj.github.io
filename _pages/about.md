@@ -2,16 +2,10 @@ I'm a Ph.D. student at Xidian University. My research focuses on searchable encr
 
 Education
 ======
-<div class="container">
-  <span class="left-align">左对齐内容</span>
-  <span class="right-align">右对齐内容</span>
-</div>
-
-<p align="left"> Xidian University  <p align="right">Xi'an, China </p>
+**Xidian University**, Xi'an, China
+Ph.D. student in Cyberspace Security
+Advisor: Xiaofeng Chen and Jianfeng Wang
 Sept. 2020 -- Present
-
-
-Ph.D. student in Cyberspace Security; Advisor: Xiaofeng Chen and Jianfeng Wang
 
 Sept. 2017 -- Jun. 2020
 Shaanxi Normal University
