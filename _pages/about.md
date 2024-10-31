@@ -1,5 +1,7 @@
 I'm a Ph.D. student at Xidian University. My research focuses on searchable encryption. I develop privacy-enhancing techniques to solve data security and integrity problems for databases, cloud storage, and blockchain.
 
+
+
 Conference Papers
 ======
 1. New Unbounded Verifiable Data Streaming for Batch Query with Almost Optimal Overhead <br>
@@ -17,17 +19,17 @@ SEC 2022 [[conference version]](https://link.springer.com/chapter/10.1007/978-3-
 
 Journal Papers
 ======
-1. Robust and auditable distributed data storage with scalability in edge computing
-Jiaojiao Wu, Yanping Li, Fang Ren, Bo Yang
+1. Robust and auditable distributed data storage with scalability in edge computing <br>
+Jiaojiao Wu, Yanping Li, Fang Ren, Bo Yang <br>
 Ad Hoc Networks 117: 102494 (2021) [[link]](https://doi.org/10.1016/j.adhoc.2021.102494)
-2. CPDA: A Confidentiality-Preserving Deduplication Cloud Storage With Public Cloud Auditing
-Jiaojiao Wu, Yanping Li, Tian-Yin Wang, Yong Ding
+2. CPDA: A Confidentiality-Preserving Deduplication Cloud Storage With Public Cloud Auditing <br>
+Jiaojiao Wu, Yanping Li, Tian-Yin Wang, Yong Ding <br>
 IEEE Access 7: 160482-160497 (2019) [[link]](https://doi.org/10.1109/ACCESS.2019.2950750)
-3. One for all: Efficient verifiable dynamic multi-user searchable encryption in the presence of corrupted users
-Xianmiao Wang, Jiaojiao Wu, Jianfeng Wang:
+3. One for all: Efficient verifiable dynamic multi-user searchable encryption in the presence of corrupted users <br>
+Xianmiao Wang, Jiaojiao Wu, Jianfeng Wang <br>
 J. King Saud Univ. Comput. Inf. Sci. 35(8): 101703 (2023) [[link]](https://doi.org/10.1016/j.jksuci.2023.101703)
-4. Verifiable data streaming with efficient update for intelligent automation systems.
-Meixia Miao, Jianghong Wei, Jiaojiao Wu, Kuan-Ching Li, Willy Susilo
+4. Verifiable data streaming with efficient update for intelligent automation systems <br>
+Meixia Miao, Jianghong Wei, Jiaojiao Wu, Kuan-Ching Li, Willy Susilo <br>
 Int. J. Intell. Syst. 37(2): 1322-1338 (2022) [[link]](https://doi.org/10.1002/int.22671)
 
 Talks
