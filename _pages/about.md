@@ -2,7 +2,7 @@ I'm a Ph.D. student at Xidian University. My research focuses on searchable encr
 
 Conference Papers
 ======
-1. Xproofs: New Aggregatable and Maintainable Matrix Commitment with Optimal Proof Size
+1. Xproofs: New Aggregatable and Maintainable Matrix Commitment with Optimal Proof Size\\
 Xinwei Yong, Jiaojiao Wu, Jianfeng Wang
 SEC 2024
 2. 
