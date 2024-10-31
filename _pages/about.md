@@ -51,17 +51,17 @@ Awards
 The 2nd National Crypto-Math Challenge <br>
 National First Prize <br>
 Dec. 2017 <br>
-Recover the initial state (60 bits) of a linear feedback shift register (LFSR) using rule-based low density parity check code (LDPC) attack algorithms
+Overview: Recover the initial state (60 bits) of a linear feedback shift register (LFSR) using rule-based low density parity check code (LDPC) attack algorithms
 
 The 3rd National Crypto-Math Challenge <br>
 National Second Prize <br>
 Aug. 2018 <br>
-Factorize a 432-digit decimal integer to obtain 14 prime factors, and perform primality testing on each
+Overview: Factorize a 432-digit decimal integer to obtain 14 prime factors, and perform primality testing on each
 
 The 6th National Cryptography Technology Competition <br>
 National Second Prize <br>
 Nov. 2021 <br>
-Develop a data retrieval scheme for dynamic encrypted database based on SGX
+Overview: Develop a data retrieval scheme for dynamic encrypted database based on SGX
 
 Research Projects
 ======
