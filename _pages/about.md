@@ -43,7 +43,7 @@ Ad Hoc Networks 117: 102494 (2021) [[link]](https://doi.org/10.1016/j.adhoc.2021
 **Jiaojiao Wu**, Yanping Li, Tian-Yin Wang, Yong Ding <br>
 IEEE Access 7: 160482-160497 (2019) [[link]](https://doi.org/10.1109/ACCESS.2019.2950750)
 3. One for all: Efficient verifiable dynamic multi-user searchable encryption in the presence of corrupted users <br>
-Xianmiao Wang, B.E. in Information and Computation Science, Jianfeng Wang <br>
+Xianmiao Wang, **Jiaojiao Wu**, Jianfeng Wang <br>
 J. King Saud Univ. Comput. Inf. Sci. 35(8): 101703 (2023) [[link]](https://doi.org/10.1016/j.jksuci.2023.101703)
 4. Verifiable data streaming with efficient update for intelligent automation systems <br>
 Meixia Miao, Jianghong Wei, **Jiaojiao Wu**, Kuan-Ching Li, Willy Susilo <br>
