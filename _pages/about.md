@@ -2,20 +2,20 @@ I'm a Ph.D. student at Xidian University. My research focuses on searchable encr
 
 Education
 ======
-**Xidian University**, Xi'an, China
-Ph.D. student in Cyberspace Security
-Advisor: Xiaofeng Chen and Jianfeng Wang
+**Xidian University**, Xi'an, China <br>
+Ph.D. student in Cyberspace Security <br>
+Advisor: Xiaofeng Chen and Jianfeng Wang <br>
 Sept. 2020 -- Present
 
+**Shaanxi Normal University**, Xi'an, China <br>
+M.E. in Computational Mathematics (Research Direction: Applied Cryptography) <br>
+Advisor: Yanping Li <br>
 Sept. 2017 -- Jun. 2020
-Shaanxi Normal University
-Xi'an, China
-M.E. in Computational Mathematics; Advisor: Yanping Li
 
-Sept. 2012 -- Jun. 2016
-Shaanxi Normal University
-Xi'an, China
+**Shaanxi Normal University**, Xi'an, China <br>
 B.E. in Information and Computation Science
+Sept. 2012 -- Jun. 2016
+
 
 
 
