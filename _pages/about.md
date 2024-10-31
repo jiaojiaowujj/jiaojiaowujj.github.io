@@ -1,4 +1,4 @@
-I'm a Ph.D. student at Xidian University. My research focuses on searchable encryption. I develop privacy-enhancing techniques to solve data security and integrity problems for databases, cloud storage, and blockchain.
+I'm a Ph.D. student at Xidian University. My research focuses on searchable encryption. I develop privacy-enhancing techniques to solve data security and integrity problems for databases and cloud storage.
 
 Education
 ======
