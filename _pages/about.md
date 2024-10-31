@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 I'm a Ph.D. student at Xidian University. My research focuses on searchable encryption. I develop privacy-enhancing techniques to solve data security and integrity problems for databases and cloud storage.
 
