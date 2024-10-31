@@ -2,23 +2,22 @@ I'm a Ph.D. student at Xidian University. My research focuses on searchable encr
 
 Education
 ======
-\begin{itemize}[leftmargin=0.0in]
-% \setlength\itemsep{.1em}
-\cventry{Sept. 2020 -- Present}{}{Xidian University}{\textmd{Xi'an, China}}{}{ \setlength{\itemindent}{.2in} \setlength\itemsep{.3em}
-\vspace{-12pt}
-\item[] Ph.D. student in Cyberspace Security; Advisor: Xiaofeng Chen and Jianfeng Wang
-}
-\vspace{-3pt}
-\cventry{Sept. 2017 -- Jun. 2020}{}{Shaanxi Normal University}{\textmd{Xi'an, China}}{}{ \setlength{\itemindent}{.2in} \setlength\itemsep{.3em}
-\vspace{-12pt}
-\item[] M.E. in Computational Mathematics; Advisor: Yanping Li}
-% (Research Direction: Applied Cryptography)?
-\vspace{-3pt}
-\cventry{Sept. 2012 -- Jun. 2016}{}{Shaanxi Normal University}{\textmd{Xi'an, China}}{}{ \setlength{\itemindent}{.2in} \setlength\itemsep{.3em}
-\vspace{-12pt}
-\item[] B.E. in Information and Computation Science
-}
-\end{itemize}
+<p align="left"> **Xidian University** </p>  <p align="right">Xi'an, China </p>
+Sept. 2020 -- Present
+
+
+Ph.D. student in Cyberspace Security; Advisor: Xiaofeng Chen and Jianfeng Wang
+
+Sept. 2017 -- Jun. 2020
+Shaanxi Normal University
+Xi'an, China
+M.E. in Computational Mathematics; Advisor: Yanping Li
+
+Sept. 2012 -- Jun. 2016
+Shaanxi Normal University
+Xi'an, China
+B.E. in Information and Computation Science
+
 
 
 Conference Papers
