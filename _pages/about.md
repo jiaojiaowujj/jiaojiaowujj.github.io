@@ -18,12 +18,12 @@ I'm a Ph.D. student at Xidian University. My research focuses on searchable encr
 ======
 **Xidian University**, Xi'an, China <br>
 Ph.D. student in Cyberspace Security <br>
-Advisor: Xiaofeng Chen and Jianfeng Wang <br>
+Supervised by Xiaofeng Chen and Jianfeng Wang <br>
 Sept. 2020 -- Present
 
 **Shaanxi Normal University**, Xi'an, China <br>
 M.E. in Computational Mathematics (Research Direction: Applied Cryptography) <br>
-Advisor: Yanping Li <br>
+Supervised by Yanping Li <br>
 Sept. 2017 -- Jun. 2020
 
 **Shaanxi Normal University**, Xi'an, China <br>
