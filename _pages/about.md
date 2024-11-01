@@ -9,12 +9,12 @@ redirect_from:
 
 I'm a Ph.D. student at Xidian University. My research focuses on searchable encryption and secure multi-party computation. I develop privacy-enhancing techniques to solve data security and integrity problems for databases and cloud storage.
 
-News
+🔥 News
 ======
 - 2024.8: New Paper on "Scalable Equi-Join Queries over Encrypted Database" Accepted by ACM CCS 2024
 - 2024.11: I will be a visiting student for one year at RMIT University in Melbourne, Australia, working with Professor Xun Yi's research group.
 
-Education
+📖 Education
 ======
 **Xidian University**, Xi'an, China <br>
 Ph.D. student in Cyberspace Security <br>
@@ -30,7 +30,7 @@ Sept. 2017 -- Jun. 2020
 B.E. in Information and Computation Science <br>
 Sept. 2012 -- Jun. 2016
 
-Conference Papers
+📝 Conference Papers
 ======
 1. New Unbounded Verifiable Data Streaming for Batch Query with Almost Optimal Overhead <br>
 **Jiaojiao Wu**, Jianfeng Wang, Xinwei Yong, Xinyi Huang, Xiaofeng Chen <br>
@@ -45,7 +45,7 @@ SEC 2024 [[conference version]](https://link.springer.com/chapter/10.1007/978-3-
 Tianci Li, **Jiaojiao Wu**, Jianfeng Wang <br>
 SEC 2022 [[conference version]](https://link.springer.com/chapter/10.1007/978-3-031-06975-8_27)
 
-Journal Papers
+📝 Journal Papers
 ======
 1. Robust and auditable distributed data storage with scalability in edge computing <br>
 **Jiaojiao Wu**, Yanping Li, Fang Ren, Bo Yang <br>
@@ -60,7 +60,7 @@ J. King Saud Univ. Comput. Inf. Sci. 35(8): 101703 (2023) [[link]](https://doi.o
 Meixia Miao, Jianghong Wei, **Jiaojiao Wu**, Kuan-Ching Li, Willy Susilo <br>
 Int. J. Intell. Syst. 37(2): 1322-1338 (2022) [[link]](https://doi.org/10.1002/int.22671)
 
-Awards
+🎖 Awards
 ======
 The 2nd National Crypto-Math Challenge <br>
 National First Prize <br>
@@ -87,7 +87,7 @@ The Postgraduate Innovation Fund of Shaanxi Normal University <br>
 May 2019 -- May 2020 <br>
 General Project (Project Leader)
 
-Talks
+💬 Talks
 ======
 1. Oct. 2022 - ``New Unbounded Verifiable Data Streaming for Batch Query with Almost Optimal Overhead'', at European Symposium on Research in Computer Security (ESORICS), 2022.
 2. Jun. 2022 - ``Efficient Volume-Hiding Encrypted Multi-Maps with Support for Conjunctive Queries'', at IFIP International Conference on ICT Systems Security and Privacy Protection (SEC), 2022.
