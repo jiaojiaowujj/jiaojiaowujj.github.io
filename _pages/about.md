@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student at Xidian University. My research focuses on searchable encryption and secure multi-party computation. I develop privacy-enhancing techniques to solve data security and integrity problems for databases and cloud storage. 好的
+I'm a Ph.D. student at Xidian University. My research focuses on searchable encryption and secure multi-party computation. I develop privacy-enhancing techniques to solve data security and integrity problems for databases and cloud storage.
 
 🔥 News
 ======
