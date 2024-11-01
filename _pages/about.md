@@ -77,8 +77,12 @@ National Second Prize <br>
 Nov. 2021 <br>
 Overview: Develop a data retrieval scheme for dynamic encrypted database based on SGX
 
-Research Projects
+💻 Research Projects
 ======
+Huawei & Xidian Cooperation Project
+Research on High-Performance Complex Semantic Searchable Encryption and Its Application in Encrypted Databases
+November 2022 -- July 2024 <br>
+
 The Postgraduate Innovation Fund of Xidian University <br>
 May 2022 -- May 2023 <br>
 Key Project (Project Leader)
