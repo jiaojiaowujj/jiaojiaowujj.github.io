@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student at Xidian University. My research focuses on searchable encryption. I develop privacy-enhancing techniques to solve data security and integrity problems for databases and cloud storage.
+I'm a Ph.D. student at Xidian University. My research focuses on searchable encryption and secure multi-party computation. I develop privacy-enhancing techniques to solve data security and integrity problems for databases and cloud storage.
+
+News
+======
+- 2024.8: New Paper on "Scalable Equi-Join Queries over Encrypted Database" Accepted by ACM CCS 2024
+- 2024.11: I will be a visiting student for one year at RMIT University in Melbourne, Australia, working with Professor Xun Yi's research group.
 
 Education
 ======
