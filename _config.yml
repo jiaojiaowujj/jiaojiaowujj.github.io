@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Lecturer, Shaanxi Normal University"
   # affiliation      : "School of Artificial Intelligence and Computer Science"
-  affiliation      : '<a href="https://cs.snnu.edu.cn/">School of Artificial Intelligence and Computer Science</a>‘
+  affiliation      : "<a href="https://cs.snnu.edu.cn/">School of Artificial Intelligence and Computer Science</a>"
   employer         : "Shaanxi Normal University"
   location         : "Xi'an, Shaanxi, China, 710119"
   uri              : # URL
