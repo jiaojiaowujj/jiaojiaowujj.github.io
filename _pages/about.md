@@ -1,9 +1,10 @@
 ---
-permalink: /
-author_profile: true
+permalink: /  <!-- 表示这个页面是网站首页 -->
+title: "" <!-- 当前页面标题 Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites --> 
+author_profile: true <!-- 显示左侧作者 sidebar --> 
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.html  <!-- 重定向旧网址 -->  
 ---
 
 
