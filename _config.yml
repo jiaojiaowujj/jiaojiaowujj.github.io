@@ -26,8 +26,8 @@ author:
   name             : "Jiaojiao Wu"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer, Shaanxi Normal University"
-  # affiliation      : "School of Artificial Intelligence and Computer Science"
-  affiliation      : "<a href="https://cs.snnu.edu.cn/">School of Artificial Intelligence and Computer Science</a>"
+  affiliation      : "School of Artificial Intelligence and Computer Science"
+  # affiliation      : "<a href="https://cs.snnu.edu.cn/">School of Artificial Intelligence and Computer Science</a>"
   employer         : "Shaanxi Normal University"
   location         : "Xi'an, Shaanxi, China, 710119"
   uri              : # URL
@@ -48,12 +48,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "jiaojiaowujj"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
