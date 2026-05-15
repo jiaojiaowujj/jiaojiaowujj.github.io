@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-# locale                   : "en-US"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jiaojiao Wu's Homepage"
 title_separator          : "-"
