@@ -12,9 +12,9 @@ site_theme               : "default"
 title                    : "Jiaojiao Wu's Homepage"
 title_separator          : "-"
 name                     : &name "Jiaojiao Wu"
-description              : &description "personal description"
+# description              : &description "personal description"
 # url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+# baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiaojiaowujj/jiaojiaowujj.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
