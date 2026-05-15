@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+# locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jiaojiao Wu's Homepage"
 title_separator          : "-"
 name                     : &name "Jiaojiao Wu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+# url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiaojiaowujj/jiaojiaowujj.github.io"
 
@@ -25,9 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Jiaojiao Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Xi'an, Shaanxi, China, 710119"
+  bio              : "lecturer, Shaanxi Normal University"
+  # affiliation      : "School of Artificial Intelligence and Computer Science"
+  affiliation      : '<a href="https://cs.snnu.edu.cn/">School of Artificial Intelligence and Computer Science</a>
   employer         : "Shaanxi Normal University"
+  location         : "Xi'an, Shaanxi, China, 710119"
   uri              : # URL
   email            : "jjwu@snnu.edu.cn" 
 
