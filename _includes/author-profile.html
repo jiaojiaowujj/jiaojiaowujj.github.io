@@ -53,17 +53,16 @@
         {{ author.email }}
       
           <button
-            onclick="navigator.clipboard.writeText('{{ author.email }}'); this.innerText='Copied!'; setTimeout(() => this.innerText='Copy', 1500);"
+            onclick="navigator.clipboard.writeText('{{ author.email }}')"
+            title="Copy Email"
             style="
-              margin-left: 6px;
-              padding: 1px 6px;
-              font-size: 0.75em;
-              cursor: pointer;
-              border-radius: 4px;
-              border: 1px solid #ccc;
-              background: transparent;
+              border:none;
+              background:none;
+              cursor:pointer;
+              margin-left:4px;
+              font-size:0.9em;
             ">
-            Copy
+            📋
           </button>
       </li>
       {% endif %}
