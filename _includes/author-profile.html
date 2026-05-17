@@ -44,6 +44,28 @@
       {% if author.email %}
         <li class="author__desktop"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ author.email }}</li>
       {% endif %}
+      {% if author.email %}
+      <li class="author__desktop">
+        <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
+      
+        <a href="mailto:{{ author.email }}">{{ author.email }}</a>
+      
+        <button
+          onclick="navigator.clipboard.writeText('{{ author.email }}'); this.innerText='Copied!'; setTimeout(() => this.innerText='Copy', 1500);"
+          style="
+            margin-left: 6px;
+            padding: 2px 6px;
+            font-size: 0.75em;
+            cursor: pointer;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            background: transparent;
+          ">
+          Copy
+        </button>
+      </li>
+      {% endif %}
+
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
