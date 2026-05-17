@@ -26,7 +26,7 @@ author:
   name             : "Jiaojiao Wu (吴姣姣)"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer, Shaanxi Normal University"
-  affiliation      : "School of Artificial Intelligence and <br><span style="margin-left: 2em;">Computer Science</span>"
+  affiliation      : "School of Artificial Intelligence and <br>&nbsp;&nbsp;&nbsp;&nbsp;Computer Science</span>"
   # affiliation      : "<a href="https://cs.snnu.edu.cn/">School of Artificial Intelligence and Computer Science</a>"
   employer         : "Shaanxi Normal University (SNNU)"
   location         : "Xi'an, Shaanxi, China, 710119"
