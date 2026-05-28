@@ -28,7 +28,7 @@ author:
   bio              : "Lecturer, Shaanxi Normal University"
   affiliation      : "School of Artificial Intelligence and <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Science</span>"
   # affiliation      : "<a href="https://cs.snnu.edu.cn/">School of Artificial Intelligence and Computer Science</a>"
-  employer         : <span style="white-space: nowrap;"><a href="https://www.snnu.edu.cn/">Shaanxi Normal University (SNNU)</a>
+  employer         : <a href="https://www.snnu.edu.cn/">Shaanxi Normal University (SNNU)</a>
   # employer         : "Shaanxi Normal University (SNNU)"
   location         : "Xi'an, Shaanxi, China, 710119"
   uri              : # URL
