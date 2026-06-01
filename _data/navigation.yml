@@ -7,13 +7,12 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-#main:
-   #- title: "Main"
-    #url: /
-
-navbar-links:
-  Main: /
-  News: /#news
+main:
+  - title: "Main"
+    url: /
+    
+  - title: "News"
+    url: /#news
 
    # - title: "News"
    # url: /#news
