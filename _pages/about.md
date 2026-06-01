@@ -15,7 +15,7 @@ News
 
 Publications
 ======
-1. Flash: Practical Volume-Hiding Encrypted Conjunctive Multi-Map with Optimal Overhead<br>
+1. Flash: Practical Volume-Hiding Encrypted Conjunctive Multi-Map with Optimal Overhead [Paper](https://ccs.snnu.edu.cn/) <br> 
 **Jiaojiao Wu**, Jianfeng Wang, Shi-Feng Sun, and Xiaofeng Chen<br>
 *IEEE Transactions on Dependable and Secure Computing*, vol. 22(6), pp. 7802-7817, 2025.
 
