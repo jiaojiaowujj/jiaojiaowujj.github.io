@@ -12,7 +12,7 @@ I am a Lecturer in the [School of Artificial Intelligence and Computer Science](
 
 Publications
 ======
-* Corresponding author; # Co-first author.
+\* Corresponding author; \# Co-first author.
   
 1. [Flash: Practical Volume-Hiding Encrypted Conjunctive Multi-Map with Optimal Overhead](https://ieeexplore.ieee.org/document/11129933) <br> 
 **Jiaojiao Wu**, Jianfeng Wang, Shi-Feng Sun, and Xiaofeng Chen<br>
