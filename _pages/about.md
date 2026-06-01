@@ -79,12 +79,14 @@ Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfen
 
 🎖 Honors and Awards
 ======
-* 2017.12: First Prize Nationwide in China(全国一等奖), The 2nd National Crypto-Math Challenge(第二届全国高校密码数学挑战赛)
+* 2017.12: First Prize Nationwide in China(全国一等奖), the 2nd National Crypto-Math Challenge(第二届全国高校密码数学挑战赛)
   * Recover the initial state (60 bits) of a linear feedback shift register (LFSR) using rule-based low density parity check code (LDPC) attack algorithms
-* 2018.08: Second Prize Nationwide in China(全国二等奖), The 3rd National Crypto-Math Challenge(第三届全国高校密码数学挑战赛)
+* 2018.08: Second Prize Nationwide in China(全国二等奖), the 3rd National Crypto-Math Challenge(第三届全国高校密码数学挑战赛)
   * Factorize a 432-digit decimal integer to obtain 14 prime factors, and perform primality testing on each
-* 2021.11: Second Prize Nationwide in China(全国二等奖), The 6th National Cryptography Technology Competition(第六届全国密码技术竞赛)
+* 2021.11: Second Prize Nationwide in China(全国二等奖), the 6th National Cryptography Technology Competition(第六届全国密码技术竞赛)
   * Develop a secure retrieval system for dynamic encrypted database based on SGX
+* 2025.07: Second Prize (二等奖), the 3rd “HuaQin Cup” Cybersecurity Innovation Competition(第三届“华秦杯”网络安全创新大赛)
+  * Develop a high-performance encrypted database system based on searchable encryption
 
 
 🎓 Educations
