@@ -69,6 +69,22 @@ Jianpeng Gong, **Jiaojiao Wu**, Jianfeng Wang, and Shichong Tan<br>
 Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfeng Wang<br>
 *Wireless Communications and Mobile Computing*, vol. 2022, article ID. 6998046, 2022.
 
+🎖 Honors and Awards
+======
+* 2021.11: Second Prize Nationwide in China, The 6th National Cryptography Technology Competition, Develop a secure retrieval system for dynamic encrypted database based on SGX
+* 2018.08: Second Prize Nationwide in China, The 3rd National Crypto-Math Challenge, Factorize a 432-digit decimal integer to obtain 14 prime factors, and perform primality testing on each
+* 2017.12: First Prize Nationwide in China, The 2nd National Crypto-Math Challenge, Recover the initial state (60 bits) of a linear feedback shift register (LFSR) using rule-based low density parity check code (LDPC) attack algorithms
+
+🎓 Educations
+======
+* 2020.09-2025.12: Ph.D. degree in Cyberspace Security;, Xidian University, Xi'an, China
+** Supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/) and [Prof. Jianfeng Wang](https://web.xidian.edu.cn/jfwang/paper.html)
+  
+* 2017.09-2020.06: M.E. degree in Computational Mathematics, Shaanxi Normal University, Xi'an, China
+** Supervised by [Associate Prof. Yanping Li](https://maths.snnu.edu.cn/info/1021/1884.htm)
+
+* 2012.09-2016.06: B.E. degree in Information and Computation Science, Shaanxi Normal University, Xi'an, China
+
 
 
 
