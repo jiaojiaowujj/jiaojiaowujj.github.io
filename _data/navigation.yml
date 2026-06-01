@@ -11,8 +11,8 @@ main:
    - title: "Main"
     url: /
 
-   - title: "News"
-    url: /#news
+   # - title: "News"
+   # url: /#news
     
     
   # - title: "Papers"
