@@ -12,7 +12,7 @@ I am a Lecturer in the [School of Artificial Intelligence and Computer Science](
 My research interests focus on applied cryptography and data security, with a particular emphasis on encrypted data retrieval. I specialize in developing secure and efficient cryptographic solutions, particularly **searchable encryption**, to support secure and privacy-preserving access to encrypted data.
 
 
-Publications
+📝 Publications
 ======
 \* Corresponding author; \# Co-first author.
   
