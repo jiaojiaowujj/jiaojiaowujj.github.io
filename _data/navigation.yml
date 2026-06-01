@@ -11,14 +11,14 @@ main:
   - title: "Main"
     url: /
     
-  - title: "Papers"
-    url: /publications/
+  # - title: "Papers"
+  #  url: /publications/
 
   # - title: "Projects"
   #  url: /publications/
 
-  - title: "Talks"
-    url: /talks/  
+  # - title: "Talks"
+  #  url: /talks/  
 
   # - title: "Teaching"
   #   url: /teaching/ 
@@ -29,11 +29,11 @@ main:
   # - title: "Service"
   #   url: /talks/  
   
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #  url: /cv/
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
 
 
  
