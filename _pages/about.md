@@ -77,7 +77,7 @@ Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfen
 
 * 2022.06: Efficient Verifiable Boolean Range Query for Light Clients on Blockchain Database, at Applied Cryptography and Network Security Workshops (ACNS Workshops), 2022.
 
-🎖 Honors and Awards
+🎖 Awards
 ======
 * 2017.12: First Prize Nationwide in China(全国一等奖), the 2nd National Crypto-Math Challenge(第二届全国高校密码数学挑战赛)
   * Recover the initial state (60 bits) of a linear feedback shift register (LFSR) using rule-based low density parity check code (LDPC) attack algorithms
