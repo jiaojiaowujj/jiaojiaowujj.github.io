@@ -38,7 +38,22 @@ Publications
 Kai Du, Jianfeng Wang, **Jiaojiao Wu<sup>***, and Yunling Wang<br>
 *ACM SIGSAC Conference on Computer and Communications Security (ACM CCS 2024)*, pp. 4002-4016, 2024.
 
-7. 
+7. [Violin:Powerful Volumetric Injection Attack Against Searchable Encryption with Optimal Injection Size](http://ieeexplore.ieee.org/document/10891733)<br>
+Lei Zhang, Jianfeng Wang, **Jiaojiao Wusup>#**, Yunling Wang, and Shifeng Sun<br>
+*IEEE Transactions on Dependable and Secure Computing*, vol. 22(4), pp. 4103-4115, 2025.
+
+8. [One for All: Efficient Verifiable Dynamic Multi-user Searchable Encryption in the Presence of Corrupted Users](https://www.sciencedirect.com/science/article/pii/S1319157823002574)<br>
+Xianmiao Wang, **Jiaojiao Wu<sup>***, and Jianfeng Wang<br>
+*Journal of King Saud University-Computer and Information Sciences*, vol. 35(8), article ID. 101703, 2023.
+
+9. [Xproofs: New Aggregatable and Maintainable Matrix Commitment with Optimal Proof Size](https://link.springer.com/chapter/10.1007/978-3-031-65175-5_33)<br>
+Xinwei Yong, *Jiaojiao Wu*, and Jianfeng Wang<br>
+*IFIP International Conference on ICT Systems Security and Privacy Protection (SEC 2024)*, vol. 710, pp. 465-480, 2024.
+
+10. [Efficient Volume-Hiding Encrypted Multi-Maps with Support for Conjunctive Queries](https://link.springer.com/chapter/10.1007/978-3-031-06975-8_27)<br>
+Tianci Li, *Jiaojiao Wu*, and Jianfeng Wang<br>
+*IFIP International Conference on ICT Systems Security and Privacy Protection (SEC 2022)*, vol. 648, pp. 467-485, 2022.
+
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
