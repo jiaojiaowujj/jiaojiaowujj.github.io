@@ -12,26 +12,25 @@ main:
     url: /
     
   - title: "News"
-    url: /#news
-
-   # - title: "News"
-   # url: /#news
+    url: /#news    
     
-    
-  # - title: "Papers"
-  #  url: /publications/
+  - title: "Papers"
+    url: /#publications
 
   # - title: "Projects"
   #  url: /publications/
 
-  # - title: "Talks"
-  #  url: /talks/  
+  - title: "Talks"
+    url: /#talks  
 
   # - title: "Teaching"
   #   url: /teaching/ 
     
-  # - title: "Awards"
-  #   url: /talks/   
+  - title: "Awards"
+    url: /#awards  
+
+  - title: "Educations"
+    url: /#educations
 
   # - title: "Service"
   #   url: /talks/  
