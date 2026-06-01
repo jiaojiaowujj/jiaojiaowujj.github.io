@@ -69,6 +69,10 @@ Jianpeng Gong, **Jiaojiao Wu**, Jianfeng Wang, and Shichong Tan<br>
 Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfeng Wang<br>
 *Wireless Communications and Mobile Computing*, vol. 2022, article ID. 6998046, 2022.
 
+13. [Verifiable Data Streaming with Efficient Update for Intelligent Automation Systems](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22671)<br>
+Meixia Miao, Jianghong Wei, **Jiaojiao Wu**, Kuan-Ching Li, and Willy Susilo<br>
+*International Journal of Intelligent Systems*, vol. 37(2), pp. 1322-1338, 2022.
+
 <h2 id="talks">🎙️ Talks</h2>
 
 * 2022.10: New Unbounded Verifiable Data Streaming for Batch Query with Almost Optimal Overhead, at European Symposium on Research in Computer Security (ESORICS), 2022.
