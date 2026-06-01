@@ -71,7 +71,7 @@ Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfen
 
 🎙️ Talk
 ======
-* 202.10: New Unbounded Verifiable Data Streaming for Batch Query with Almost Optimal Overhead, at European Symposium on Research in Computer Security (ESORICS), 2022.
+* 2022.10: New Unbounded Verifiable Data Streaming for Batch Query with Almost Optimal Overhead, at European Symposium on Research in Computer Security (ESORICS), 2022.
     
 * 2022.06: Efficient Volume-Hiding Encrypted Multi-Maps with Support for Conjunctive Queries, at IFIP International Conference on ICT Systems Security and Privacy Protection (SEC), 2022.
 
