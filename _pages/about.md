@@ -9,13 +9,10 @@ redirect_from:
 
 I am a Lecturer in the [School of Artificial Intelligence and Computer Science](https://ccs.snnu.edu.cn/) at [Shaanxi Normal University](https://www.snnu.edu.cn/). I received the B.S. and M.S. degrees in Mathematics from Shaanxi Normal University in 2016 and 2020, respectively, and the Ph.D. degree in Cyberspace Security from Xidian University in 2025. My research interests focus on applied cryptography and data security, with a particular emphasis on encrypted data retrieval. I specialize in developing secure and efficient cryptographic solutions, particularly searchable encryption, to support secure and privacy-preserving access to encrypted data.
 
-News
-======
-
 
 Publications
 ======
-1. Flash: Practical Volume-Hiding Encrypted Conjunctive Multi-Map with Optimal Overhead [[Paper]](https://ccs.snnu.edu.cn/) <br> 
+1. [Flash: Practical Volume-Hiding Encrypted Conjunctive Multi-Map with Optimal Overhead](https://ieeexplore.ieee.org/document/11129933) <br> 
 **Jiaojiao Wu**, Jianfeng Wang, Shi-Feng Sun, and Xiaofeng Chen<br>
 *IEEE Transactions on Dependable and Secure Computing*, vol. 22(6), pp. 7802-7817, 2025.
 
