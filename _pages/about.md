@@ -49,7 +49,7 @@ Lei Zhang, Jianfeng Wang, **Jiaojiao Wu<sup>#</sup>**, Yunling Wang, and Shifeng
 *IEEE Transactions on Dependable and Secure Computing*, vol. 22(4), pp. 4103-4115, 2025.
 
 8. [One for All: Efficient Verifiable Dynamic Multi-user Searchable Encryption in the Presence of Corrupted Users](https://www.sciencedirect.com/science/article/pii/S1319157823002574)<br>
-Xianmiao Wang, **Jiaojiao Wu<sup>*</sup>**, and Jianfeng Wang<br>
+Xianmiao Wang, **Jiaojiao Wu<sup>∗</sup>**, and Jianfeng Wang<br>
 *Journal of King Saud University-Computer and Information Sciences*, vol. 35(8), article ID. 101703, 2023.
 
 9. [Xproofs: New Aggregatable and Maintainable Matrix Commitment with Optimal Proof Size](https://link.springer.com/chapter/10.1007/978-3-031-65175-5_33)<br>
