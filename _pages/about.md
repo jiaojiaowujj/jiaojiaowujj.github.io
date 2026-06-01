@@ -13,7 +13,7 @@ My research interests focus on applied cryptography and data security, with a pa
 
 🔥 News
 ======
-* 2026.05: Joined Shaanxi Normal University as a Lecturer and joined Prof. Yong Yu's research group.
+* 2026.05: Joined Shaanxi Normal University as a Lecturer and joined [Prof. Yong Yu](https://ccs.snnu.edu.cn/info/1016/2301.htm)'s research group.
 * 2025.12: Received my Ph.D. degree in Cyber Security from Xidian University.
 
 
