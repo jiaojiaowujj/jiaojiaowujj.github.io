@@ -92,7 +92,7 @@ Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfen
 <h2 id="educations">🎓 Educations</h2>
 
 * 2020.09-2025.12: Ph.D. degree in Cyberspace Security;, Xidian University, Xi'an, China
-  * Supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/) and [Prof. Jianfeng Wang](https://web.xidian.edu.cn/jfwang/paper.html)
+  * Supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/) and [Prof. Jianfeng Wang](https://web.xidian.edu.cn/jfwang/index.html)
   
 * 2017.09-2020.06: M.E. degree in Computational Mathematics, Shaanxi Normal University, Xi'an, China
   * Supervised by [Associate Prof. Yanping Li](https://maths.snnu.edu.cn/info/1021/1884.htm)
