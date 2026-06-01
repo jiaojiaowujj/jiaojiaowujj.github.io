@@ -12,6 +12,8 @@ I am a Lecturer in the [School of Artificial Intelligence and Computer Science](
 
 Publications
 ======
+* Corresponding author; # Co-first author.
+  
 1. [Flash: Practical Volume-Hiding Encrypted Conjunctive Multi-Map with Optimal Overhead](https://ieeexplore.ieee.org/document/11129933) <br> 
 **Jiaojiao Wu**, Jianfeng Wang, Shi-Feng Sun, and Xiaofeng Chen<br>
 *IEEE Transactions on Dependable and Secure Computing*, vol. 22(6), pp. 7802-7817, 2025.
@@ -33,7 +35,8 @@ Publications
 *Ad Hoc Networks*, vol. 117, article ID. 102494, 2021.
 
 6. [Scalable Equi-Join Queries over Encrypted Database](https://dl.acm.org/doi/pdf/10.1145/3658644.3690377)<br>
-Kai Du, Jianfeng Wang, **Jiaojiao Wu**, and Yunling Wang
+Kai Du, Jianfeng Wang, **Jiaojiao Wu**, and Yunling Wang<br>
+*ACM SIGSAC Conference on Computer and Communications Security (ACM CCS 2024)*, pp. 4002-4016, 2024.
 
 7. 
 
