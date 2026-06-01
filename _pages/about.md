@@ -11,13 +11,13 @@ I am a Lecturer in the [School of Artificial Intelligence and Computer Science](
 
 My research interests focus on applied cryptography and data security, with a particular emphasis on encrypted data retrieval. I specialize in developing secure and efficient cryptographic solutions, particularly **searchable encryption**, to support secure and privacy-preserving access to encrypted data.
 
-🔥 News
+🔥 ## News
 
 * 2026.05: Joined Shaanxi Normal University as a Lecturer and joined [Prof. Yong Yu](https://ccs.snnu.edu.cn/info/1016/2301.htm)'s research group.
 * 2025.12: Received my Ph.D. degree in Cyber Security from Xidian University.
 
 
-📝 Publications
+📝 ## Publications
 ======
 \* Corresponding author; \# Co-first author.
   
@@ -69,7 +69,7 @@ Jianpeng Gong, **Jiaojiao Wu**, Jianfeng Wang, and Shichong Tan<br>
 Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfeng Wang<br>
 *Wireless Communications and Mobile Computing*, vol. 2022, article ID. 6998046, 2022.
 
-🎙️ Talk
+🎙️ ## Talk
 ======
 * 2022.10: New Unbounded Verifiable Data Streaming for Batch Query with Almost Optimal Overhead, at European Symposium on Research in Computer Security (ESORICS), 2022.
     
@@ -77,7 +77,7 @@ Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfen
 
 * 2022.06: Efficient Verifiable Boolean Range Query for Light Clients on Blockchain Database, at Applied Cryptography and Network Security Workshops (ACNS Workshops), 2022.
 
-🎖 Awards
+🎖 ## Awards
 ======
 * 2017.12: First Prize Nationwide in China(全国一等奖), the 2nd National Crypto-Math Challenge(第二届全国高校密码数学挑战赛)
   * Recover the initial state (60 bits) of a linear feedback shift register (LFSR) using rule-based low density parity check code (LDPC) attack algorithms
@@ -89,7 +89,7 @@ Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfen
   * Develop a high-performance encrypted database system based on searchable encryption
 
 
-🎓 Educations
+🎓 ## Educations
 ======
 * 2020.09-2025.12: Ph.D. degree in Cyberspace Security;, Xidian University, Xi'an, China
   * Supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/) and [Prof. Jianfeng Wang](https://web.xidian.edu.cn/jfwang/paper.html)
