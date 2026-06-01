@@ -7,7 +7,9 @@ redirect_from:
   - /about.html 
 ---
 
-I am a Lecturer in the [School of Artificial Intelligence and Computer Science](https://ccs.snnu.edu.cn/) at [Shaanxi Normal University](https://www.snnu.edu.cn/). I received the B.S. and M.S. degrees in Mathematics from Shaanxi Normal University in 2016 and 2020, respectively, and the Ph.D. degree in Cyberspace Security from Xidian University in 2025. My research interests focus on applied cryptography and data security, with a particular emphasis on encrypted data retrieval. I specialize in developing secure and efficient cryptographic solutions, particularly **searchable encryption**, to support secure and privacy-preserving access to encrypted data.
+I am a Lecturer in the [School of Artificial Intelligence and Computer Science](https://ccs.snnu.edu.cn/) at [Shaanxi Normal University](https://www.snnu.edu.cn/). I received the B.S. and M.S. degrees in Mathematics from Shaanxi Normal University in 2016 and 2020, respectively, and the Ph.D. degree in Cyberspace Security from Xidian University in 2025. 
+
+My research interests focus on applied cryptography and data security, with a particular emphasis on encrypted data retrieval. I specialize in developing secure and efficient cryptographic solutions, particularly **searchable encryption**, to support secure and privacy-preserving access to encrypted data.
 
 
 Publications
