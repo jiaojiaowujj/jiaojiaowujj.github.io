@@ -40,7 +40,7 @@ My research interests focus on applied cryptography and data security, with a pa
 *Ad Hoc Networks*, vol. 117, article ID. 102494, 2021.
 
 6. [Scalable Equi-Join Queries over Encrypted Database](https://dl.acm.org/doi/pdf/10.1145/3658644.3690377)<br>
-Kai Du, Jianfeng Wang, <strong>Jiaojiao Wu<sup>*</sup></strong>, and Yunling Wang<br>
+Kai Du, Jianfeng Wang, **Jiaojiao Wu/***, and Yunling Wang<br>
 *ACM SIGSAC Conference on Computer and Communications Security (ACM CCS 2024)*, pp. 4002-4016, 2024.
 
 7. [Violin:Powerful Volumetric Injection Attack Against Searchable Encryption with Optimal Injection Size](http://ieeexplore.ieee.org/document/10891733)<br>
