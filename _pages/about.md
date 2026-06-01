@@ -54,6 +54,16 @@ Xinwei Yong, *Jiaojiao Wu*, and Jianfeng Wang<br>
 Tianci Li, *Jiaojiao Wu*, and Jianfeng Wang<br>
 *IFIP International Conference on ICT Systems Security and Privacy Protection (SEC 2022)*, vol. 648, pp. 467-485, 2022.
 
+11. [Efficient Verifiable Boolean Range Query for Light Client on Blockchain Database](https://link.springer.com/chapter/10.1007/978-3-031-16815-4_2)<br>
+Jianpeng Gong, **Jiaojiao Wu**, Jianfeng Wang, and Shichong Tan<br>
+*International Conference on Applied Cryptography and Network Security Workshops (ACNS Workshops)*, pp. 15-35, 2022.
+
+12. [Blockchain-Based Self-Auditing Scheme with Batch Verification for Decentralized Storage](https://onlinelibrary.wiley.com/doi/10.1155/2022/6998046)<br>
+Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfeng Wang<br>
+*Wireless Communications and Mobile Computing*, vol. 2022, article ID. 6998046, 2022.
+
+
+
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
