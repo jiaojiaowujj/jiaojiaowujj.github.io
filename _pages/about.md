@@ -16,7 +16,26 @@ Publications
 **Jiaojiao Wu**, Jianfeng Wang, Shi-Feng Sun, and Xiaofeng Chen<br>
 *IEEE Transactions on Dependable and Secure Computing*, vol. 22(6), pp. 7802-7817, 2025.
 
+2. [False-positive-free Wildcard Queries with Dual Wildcard Flexibility and Enhanced Efficiency](https://ieeexplore.ieee.org/document/11218174)<br> 
+**Jiaojiao Wu**, Wanxuan Huang, Jianfeng Wang, Shi-Feng Sun, and Xiaofeng Chen<br>
+*IEEE Transactions on Information Forensics and Security*, vol. 20, pp. 12539-12551, 2025.
 
+3. [New Unbounded Verifiable Data Streaming for Batch Query with Almost Optimal Overhead](https://link.springer.com/chapter/10.1007/978-3-031-17140-6_17)<br> 
+**Jiaojiao Wu**, Jianfeng Wang, Xinwei Yong, Xinyi Huang, and Xiaofeng Chen<br>
+*European Symposium on Research in Computer Security (ESORICS 2022)*, pp. 346-366, 2022.
+
+4. [Compressed Cookies: Practical Wildcard Symmetric Searchable Encryption with Optimized Storage](https://link.springer.com/chapter/10.1007/978-981-96-0954-3_6)<br> 
+**Jiaojiao Wu**, Kai Du, Jianfeng Wang, Shi-Feng Sun, Yunling Wang, Yong Li, Wenyuan Tian, and Yusen Wang<br>
+*Provable and Practical Security (ProvSec 2024)*, pp. 106-126, 2025.
+
+5. [Robust and Auditable Distributed Data Storage with Scalability in Edge Computing](https://www.sciencedirect.com/science/article/abs/pii/S1570870521000573)<br>
+**Jiaojiao Wu**, Yanping Li, Fang Ren, and Bo Yang<br>
+*Ad Hoc Networks*, vol. 117, article ID. 102494, 2021.
+
+6. [Scalable Equi-Join Queries over Encrypted Database](https://dl.acm.org/doi/pdf/10.1145/3658644.3690377)<br>
+Kai Du, Jianfeng Wang, **Jiaojiao Wu**, and Yunling Wang
+
+7. 
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
