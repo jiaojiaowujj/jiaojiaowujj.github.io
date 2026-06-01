@@ -17,8 +17,8 @@ My research interests focus on applied cryptography and data security, with a pa
 * 2025.12: Received my Ph.D. degree in Cyber Security from Xidian University.
 
 
-📝 Publications
-======
+<h2 id="publications">📝 Publications</h2>
+
 \* Corresponding author; \# Co-first author.
   
 1. [Flash: Practical Volume-Hiding Encrypted Conjunctive Multi-Map with Optimal Overhead](https://ieeexplore.ieee.org/document/11129933) <br> 
@@ -69,16 +69,16 @@ Jianpeng Gong, **Jiaojiao Wu**, Jianfeng Wang, and Shichong Tan<br>
 Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfeng Wang<br>
 *Wireless Communications and Mobile Computing*, vol. 2022, article ID. 6998046, 2022.
 
-🎙️ Talk
-======
+<h2 id="talks">🎙️ Talks</h2>
+
 * 2022.10: New Unbounded Verifiable Data Streaming for Batch Query with Almost Optimal Overhead, at European Symposium on Research in Computer Security (ESORICS), 2022.
     
 * 2022.06: Efficient Volume-Hiding Encrypted Multi-Maps with Support for Conjunctive Queries, at IFIP International Conference on ICT Systems Security and Privacy Protection (SEC), 2022.
 
 * 2022.06: Efficient Verifiable Boolean Range Query for Light Clients on Blockchain Database, at Applied Cryptography and Network Security Workshops (ACNS Workshops), 2022.
 
-🎖 Awards
-======
+<h2 id="awards">🎖 Awards</h2>
+
 * 2017.12: First Prize Nationwide in China(全国一等奖), the 2nd National Crypto-Math Challenge(第二届全国高校密码数学挑战赛)
   * Recover the initial state (60 bits) of a linear feedback shift register (LFSR) using rule-based low density parity check code (LDPC) attack algorithms
 * 2018.08: Second Prize Nationwide in China(全国二等奖), the 3rd National Crypto-Math Challenge(第三届全国高校密码数学挑战赛)
@@ -89,8 +89,8 @@ Zhonghao Yuan, **Jiaojiao Wu**, Jianpeng Gong, Yao Liu, Guohua Tian, and Jianfen
   * Develop a high-performance encrypted database system based on searchable encryption
 
 
-🎓 Educations
-======
+<h2 id="educations">🎓 Educations</h2>
+
 * 2020.09-2025.12: Ph.D. degree in Cyberspace Security;, Xidian University, Xi'an, China
   * Supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/) and [Prof. Jianfeng Wang](https://web.xidian.edu.cn/jfwang/paper.html)
   
