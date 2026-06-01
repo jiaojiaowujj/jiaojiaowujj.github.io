@@ -16,8 +16,10 @@ News
 Publications
 ======
 1. Flash: Practical Volume-Hiding Encrypted Conjunctive Multi-Map with Optimal Overhead<br>
-\textbf{Jiaojiao Wu}, Jianfeng Wang, Shi-Feng Sun, and Xiaofeng Chen.
-\textit{IEEE Transactions on Dependable and Secure Computing}, vol. 22(6), pp. 7802-7817, 2025.
+**Jiaojiao Wu**, Jianfeng Wang, Shi-Feng Sun, and Xiaofeng Chen<br>
+*IEEE Transactions on Dependable and Secure Computing*, vol. 22(6), pp. 7802-7817, 2025.
+
+
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
