@@ -11,7 +11,7 @@ I am a Lecturer in the [School of Artificial Intelligence and Computer Science](
 
 My research interests focus on applied cryptography and data security, with a particular emphasis on encrypted data retrieval. I specialize in developing secure and efficient cryptographic solutions, particularly **searchable encryption**, to support secure and privacy-preserving access to encrypted data.
 
-🔥 <h2 id="news">News</h2>
+🔥 News
 
 * 2026.05: Joined Shaanxi Normal University as a Lecturer and joined [Prof. Yong Yu](https://ccs.snnu.edu.cn/info/1016/2301.htm)'s research group.
 * 2025.12: Received my Ph.D. degree in Cyber Security from Xidian University.
