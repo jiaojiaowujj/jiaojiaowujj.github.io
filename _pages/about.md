@@ -42,15 +42,15 @@ My research interests focus on applied cryptography and data security, with a pa
 *Ad Hoc Networks*, vol. 117, article ID. 102494, 2021.
 
 6. [Scalable Equi-Join Queries over Encrypted Database](https://dl.acm.org/doi/pdf/10.1145/3658644.3690377)<br>
-Kai Du, Jianfeng Wang, **Jiaojiao Wu<sup>&#42;</sup>**, and Yunling Wang<br>
+Kai Du, Jianfeng Wang, **Jiaojiao Wu<sup>#</sup>**, and Yunling Wang<br>
 *ACM SIGSAC Conference on Computer and Communications Security (ACM CCS 2024)*, pp. 4002-4016, 2024.
 
 7. [Violin:Powerful Volumetric Injection Attack Against Searchable Encryption with Optimal Injection Size](http://ieeexplore.ieee.org/document/10891733)<br>
-Lei Zhang, Jianfeng Wang, **Jiaojiao Wu<sup>#</sup>**, Yunling Wang, and Shifeng Sun<br>
+Lei Zhang, Jianfeng Wang, **Jiaojiao Wu<sup>&#42;</sup>***, Yunling Wang, and Shifeng Sun<br>
 *IEEE Transactions on Dependable and Secure Computing*, vol. 22(4), pp. 4103-4115, 2025.
 
 8. [One for All: Efficient Verifiable Dynamic Multi-user Searchable Encryption in the Presence of Corrupted Users](https://www.sciencedirect.com/science/article/pii/S1319157823002574)<br>
-Xianmiao Wang, **Jiaojiao Wu<sup>&#42;</sup>**, and Jianfeng Wang<br>
+Xianmiao Wang, **Jiaojiao Wu<sup>#</sup>**, and Jianfeng Wang<br>
 *Journal of King Saud University-Computer and Information Sciences*, vol. 35(8), article ID. 101703, 2023.
 
 9. [Xproofs: New Aggregatable and Maintainable Matrix Commitment with Optimal Proof Size](https://link.springer.com/chapter/10.1007/978-3-031-65175-5_33)<br>
@@ -58,7 +58,7 @@ Xinwei Yong, **Jiaojiao Wu<sup>#</sup>**, and Jianfeng Wang<br>
 *IFIP International Conference on ICT Systems Security and Privacy Protection (SEC 2024)*, vol. 710, pp. 465-480, 2024.
 
 10. [Efficient Volume-Hiding Encrypted Multi-Maps with Support for Conjunctive Queries](https://link.springer.com/chapter/10.1007/978-3-031-06975-8_27)<br>
-Tianci Li, **Jiaojiao Wu<sup>#</sup>**, and Jianfeng Wang<br>
+Tianci Li, **Jiaojiao Wu**, and Jianfeng Wang<br>
 *IFIP International Conference on ICT Systems Security and Privacy Protection (SEC 2022)*, vol. 648, pp. 467-485, 2022.
 
 11. [Efficient Verifiable Boolean Range Query for Light Client on Blockchain Database](https://link.springer.com/chapter/10.1007/978-3-031-16815-4_2)<br>
