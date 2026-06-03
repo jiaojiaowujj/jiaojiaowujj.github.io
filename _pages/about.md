@@ -95,7 +95,7 @@ Meixia Miao, Jianghong Wei, **Jiaojiao Wu**, Kuan-Ching Li, and Willy Susilo<br>
 
 <h2 id="educations">🎓 Educations</h2>
 
-* 2020.09-2025.12: Ph.D. degree in Cyberspace Security;, Xidian University, Xi'an, China
+* 2020.09-2025.12: Ph.D. degree in Cyberspace Security, Xidian University, Xi'an, China
   * Supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/) and [Prof. Jianfeng Wang](https://web.xidian.edu.cn/jfwang/index.html)
   
 * 2017.09-2020.06: M.E. degree in Computational Mathematics, Shaanxi Normal University, Xi'an, China
