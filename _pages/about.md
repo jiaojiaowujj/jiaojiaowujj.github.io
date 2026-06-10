@@ -82,7 +82,8 @@ Meixia Miao, Jianghong Wei, **Jiaojiao Wu**, Kuan-Ching Li, and Willy Susilo<br>
 * 2022.06: Efficient Verifiable Boolean Range Query for Light Clients on Blockchain Database, at Applied Cryptography and Network Security Workshops (ACNS Workshops), 2022.
 
 <h2 id="awards">🎖 Awards</h2>
-
+* 2014.12: Second Prize Nationwide in China(全国二等奖), China Undergraduate Mathematical Contest in Modeling (2014年高教社杯全国大学生数学建模竞赛)
+  * Develop a mathematical model for an innovative foldable tablet desk
 * 2017.12: First Prize Nationwide in China(全国一等奖), the 2nd National Crypto-Math Challenge(第二届全国高校密码数学挑战赛)
   * Recover the initial state (60 bits) of a linear feedback shift register (LFSR) using rule-based low density parity check code (LDPC) attack algorithms
 * 2018.08: Second Prize Nationwide in China(全国二等奖), the 3rd National Crypto-Math Challenge(第三届全国高校密码数学挑战赛)
